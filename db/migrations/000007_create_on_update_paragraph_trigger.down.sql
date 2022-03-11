@@ -1,0 +1,1 @@
+DROP TRIGGER IF EXISTS  name ON sentences CASCADE;
